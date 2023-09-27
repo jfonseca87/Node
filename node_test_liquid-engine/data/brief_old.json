@@ -1,0 +1,110 @@
+{
+	"BrandName": "bbbbbbbbbbbbbb",
+	"CountryCode": "CO",
+	"CountryCodeAlpha3": "COL",
+	"StatusName": "Published",
+	"CurrencyCode": "COP",
+	"CurrencySymbol": "$",
+	"ContactFirstName": "Jorge",
+	"ContactLastName": "Fonseca",
+	"ContactEmail": "jorge.fonseca@prodigious.com",
+	"WebSiteBaseUrl": "https://dev-brief.mflabcloud.com/",
+	"SendBriefPdfMail": false,
+	"BriefTotalPrice": "0.00",
+	"UserInitials": "JF",
+	"EmailsToBeNotified": "[]",
+	"CreatedBy": 125,
+	"FirstName": "Jorge",
+	"LastName": "Fonseca",
+	"ModifiedAt": "01/24/2022 20:57:23 PM",
+	"BrandId": 511,
+	"CountryId": 46,
+	"Status": 1,
+	"SubmitterRoleId": 5,
+	"CurrencyId": 35,
+	"ProjectName": "Brief Project 240120221555",
+	"ContactId": 125,
+	"BriefTemplateName": "Brief Template 240120221545",
+	"Sections": [
+		{
+			"Type": 1,
+			"Title": "New Blank Section",
+			"Order": 1,
+			"AdditionalAmounts": 0,
+			"Fields": [
+				{
+					"Label": "label 1",
+					"Type": 2,
+					"Width": 50,
+					"Options": [
+						{
+							"Value": "A",
+							"Color": "#4c1715"
+						},
+						{
+							"Value": "B",
+							"Color": "#3e4fa7"
+						},
+						{
+							"Value": "C",
+							"Color": "#3f44ca"
+						}
+					],
+					"Value": "A",
+					"DropDownValues": [
+						"A"
+					],
+					"ValueType": 3,
+					"id": "1"
+				},
+				{
+					"Label": "label 2",
+					"Type": 1,
+					"Width": 50,
+					"Options": [],
+					"Value": "asefsdfasdfasfsdfasdf",
+					"id": "2"
+				},
+				{
+					"Label": "label 3",
+					"Type": 3,
+					"Width": 50,
+					"Options": [],
+					"Value": "https://www.google.com",
+					"id": "3"
+				},
+				{
+					"Label": "Comment",
+					"Type": 5,
+					"Width": 50,
+					"Options": [],
+					"Value": "{\"comment\":\"This a comment\",\"imagePath\":\"https://dev-brief.mflabcloud.com/briefs/comments/1793/4192/20211103_134402_4.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZGV2LWJyaWVmLm1mbGFiY2xvdWQuY29tL2JyaWVmcy9jb21tZW50cy8xNzkzLzQxOTIvMjAyMTExMDNfMTM0NDAyXzQuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQzNzQ5MDgzfX19XX0_&Signature=adXVl8VNAWRTSYm4LvzrPdGbQTx7voSQ3or8i6Fx8o~WQPLTlBv9dEnt~ivNsBsU7YnsXjQLqylTWdjg8yFKPyHF8y~WVK5sTbdqPwgAUaokiyYy9H31EhkTIJBoz1~6EgxbJCqyVmmjHmqfnS~2e3SEv8QQG4qQ~qfN8uSe1GKKk~q4SSLaYx8yWfVsvuUOKat06XtJFgaHXRuhztre7Cjz0-ITRpijnu2kXR8uHdgogg2lz9TdhmySCDWL30D2RBiou3iTKSya3fh3IlCkE-sXsVQ1fUSPjgGvWHuyuxQsXe0VGnIPL0oHEJqat2uw7FQh728Rzuu3N4E4fYytWA__&Key-Pair-Id=APKAJOKUAK3RWDBJ4XLQ\"}",
+					"CommentValues": {
+						"comment": "This a comment",
+						"imagePath": "https://dev-brief.mflabcloud.com/briefs/comments/1793/4192/20211103_134402_4.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZGV2LWJyaWVmLm1mbGFiY2xvdWQuY29tL2JyaWVmcy9jb21tZW50cy8xNzkzLzQxOTIvMjAyMTExMDNfMTM0NDAyXzQuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQzNzQ5MDgzfX19XX0_&Signature=adXVl8VNAWRTSYm4LvzrPdGbQTx7voSQ3or8i6Fx8o~WQPLTlBv9dEnt~ivNsBsU7YnsXjQLqylTWdjg8yFKPyHF8y~WVK5sTbdqPwgAUaokiyYy9H31EhkTIJBoz1~6EgxbJCqyVmmjHmqfnS~2e3SEv8QQG4qQ~qfN8uSe1GKKk~q4SSLaYx8yWfVsvuUOKat06XtJFgaHXRuhztre7Cjz0-ITRpijnu2kXR8uHdgogg2lz9TdhmySCDWL30D2RBiou3iTKSya3fh3IlCkE-sXsVQ1fUSPjgGvWHuyuxQsXe0VGnIPL0oHEJqat2uw7FQh728Rzuu3N4E4fYytWA__&Key-Pair-Id=APKAJOKUAK3RWDBJ4XLQ"
+					},
+					"id": "4"
+				}
+			],
+			"id": 4192
+		}
+	],
+	"Brands": [
+		{
+			"IsActive": true,
+			"Name": "bbbbbbbbbbbbbb",
+			"CreatedAt": "10/26/2021 16:09:59 PM",
+			"ModifiedAt": "10/26/2021 16:09:59 PM",
+			"HasImage": true,
+			"id": 511
+		}
+	],
+	"Contacts": [
+		{
+			"FirstName": "Jorge",
+			"LastName": "Fonseca",
+			"id": 125
+		}
+	],
+	"id": 1793
+}

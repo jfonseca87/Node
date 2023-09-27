@@ -1,0 +1,9 @@
+{
+	"Notification": {
+		"ProjectName": "Test Project",
+		"Subject": "The project has added a new member",
+		"TemplateHexColor": "#05218e",
+		"Logo": "http://localhost:4200/application/logo_header/1?timeStamp=1648661772876",
+		"BodyTemplate": "<div> Dear Friend Jorge </div><div> This a Test Project to take in count </div>"
+	}
+}

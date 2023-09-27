@@ -1,0 +1,112 @@
+{
+	"BrandName": "Golden Retriever",
+	"CountryCode": "CO",
+	"CountryCodeAlpha3": "COL",
+	"StatusName": "Published",
+	"CurrencyCode": "COP",
+	"CurrencySymbol": "$",
+	"ContactFirstName": "Jorge",
+	"ContactLastName": "Fonseca",
+	"ContactEmail": "jorge.fonseca@publicisgroupe.com",
+	"WebSiteBaseUrl": "https://dev-anaxes.mflabcloud.com/",
+	"SendBriefPdfMail": false,
+	"BriefTotalPrice": "0.00",
+	"UserInitials": "JF",
+	"ShowTotalProject": true,
+	"HasAmounts": "true",
+	"CreatedBy": 37,
+	"FirstName": "Jorge",
+	"LastName": "Fonseca",
+	"ModifiedAt": "21/09/2022 15:57:51 PM",
+	"BrandId": 2,
+	"CountryId": 46,
+	"Status": 1,
+	"SubmitterRoleId": 1,
+	"CurrencyId": 35,
+	"ProjectName": "Brief Project 1513",
+	"ContactId": 37,
+	"BriefTemplateName": "Brief Template 1103",
+	"Sections": [
+		{
+			"Type": 1,
+			"Title": "New Blank Section",
+			"Order": 1,
+			"AdditionalAmounts": 0,
+			"Fields": [
+				{
+					"Label": "label 1",
+					"Type": 2,
+					"Width": 50,
+					"Options": [
+						{
+							"Value": "Options",
+							"Color": "#2cd557"
+						}
+					],
+					"Value": "Options",
+					"ValueType": 3,
+					"id": "1"
+				}
+			],
+			"id": 9
+		},
+		{
+			"Type": 3,
+			"Title": "Products",
+			"Order": 2,
+			"AdditionalAmounts": 0,
+			"Fields": [],
+			"Products": [],
+			"id": 10
+		},
+		{
+			"Type": 4,
+			"Title": "Additional costs or discounts",
+			"Order": 3,
+			"AdditionalAmounts": 0,
+			"Fields": [],
+			"AmountDetails": [
+				{
+					"Label": "",
+					"AmountFormat": "",
+					"id": 3
+				},
+				{
+					"Label": "",
+					"AmountFormat": "",
+					"id": 4
+				}
+			],
+			"id": 11
+		},
+		{
+			"Type": 2,
+			"Title": "Brief Documents",
+			"Order": 4,
+			"AdditionalAmounts": 0,
+			"Fields": [],
+			"BriefDocuments": [],
+			"id": 12
+		}
+	],
+	"Brands": [
+		{
+			"IsActive": true,
+			"Name": "Golden Retriever",
+			"CreatedAt": "12/09/2022 21:55:08 PM",
+			"ModifiedAt": "12/09/2022 21:55:08 PM",
+			"HasImage": true,
+			"id": 2
+		}
+	],
+	"Contacts": [
+		{
+			"FirstName": "Jorge",
+			"LastName": "Fonseca",
+			"id": 37
+		}
+	],
+	"id": 17,
+	"BackgroundColor": "#f5ff89",
+	"TextColor": "#000000"
+}

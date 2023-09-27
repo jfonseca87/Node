@@ -1,0 +1,12 @@
+{
+	"User": {
+		"ProjectName": "Test Project",
+		"TemplateHexColor": "#05218e",
+		"Logo": "http://localhost:4200/application/logo_header/1?timeStamp=1648661772876",
+		"MentionedFirstName": "Jorge",
+		"ChannelType": 3,
+		"OperationType": "INSERT",
+		"MentionedByFirstName": "Jorge",
+		"Path": "/638/638/"
+	}
+}
